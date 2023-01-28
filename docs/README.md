@@ -34,7 +34,7 @@ _✨ 基于nonebot的XDU服务插件 ✨_
 
 ![logo](nonebot_plugin_pvz/nonebot_plugin_pvz_logo.png ':size=300x300')
 
-# nonebot_plugin_pvz
+## nonebot_plugin_pvz
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable-next-line MD036 -->
