@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
+<!-- docs/nonebot_plugin_xdu_support/_sidebar.md -->
 
 - [**仓库列表**](/#/README.md)
 
